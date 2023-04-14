@@ -1,16 +1,21 @@
-### Hi there 👋
+### Socials
 
-<!--
-**xBlaz3kx/xblaz3kx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" width="22" alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/blazdular/)
+[<img align="left" width="22" alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linktr.ee/blazdular)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+
+![Languages](https://skillicons.dev/icons?i=go,kotlin,java,git)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=linux,k8s,docker,grafana,prometheus,rabbitmq,postman,redis,k8s,mongo)
+
+
+<br>
+
+[![xBlaz3kx's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xBlaz3kx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![xBlaz3kx's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xBlaz3kx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
