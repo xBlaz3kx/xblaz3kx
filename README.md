@@ -1,17 +1,16 @@
 ### Socials
 
 [<img align="left" width="22" alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/blazdular/)
-[<img align="left" width="22" alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linktr.ee/blazdular)
 
 <br>
 
 ### Languages:
 
-![Languages](https://skillicons.dev/icons?i=go,kotlin,java,git)
+![Languages](https://skillicons.dev/icons?i=go,kotlin,python,java,git,terraform)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,k8s,docker,grafana,prometheus,rabbitmq,postman,redis,k8s,mongo)
+![Tools](https://skillicons.dev/icons?i=linux,docker,grafana,prometheus,rabbitmq,postman,redis,k8s,mongo)
 
 
 <br>
