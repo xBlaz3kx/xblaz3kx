@@ -9,13 +9,19 @@ Backend software engineer/DevOps with project management skills. My focus when d
 <br>
 
 ### Languages:
-
-![Languages](https://skillicons.dev/icons?i=go,kotlin,python,java,git,terraform)
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,kotlin,python,git,terraform" />
+  </a>
+</p>
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,docker,grafana,prometheus,rabbitmq,postman,redis,k8s,mongo)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,docker,grafana,prometheus,rabbitmq,postman,redis,k8s,mongo,kafka,raspberrypi&perline=5" />
+  </a>
+</p>
 
 <br>
 
