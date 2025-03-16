@@ -2,13 +2,9 @@
 
 Backend software engineer/DevOps with project management skills. My focus when designing and implementing solutions is simplicity, user experience and scalability as well as maintainability. Striving to adhere to industry best practices.
 
-### Socials
-
-[<img align="left" width="22" alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/blazdular/)
-
 <br>
 
-### Languages:
+### Languages
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=go,kotlin,python,git,terraform" />
