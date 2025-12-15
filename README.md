@@ -2,7 +2,7 @@
    
 ### About me
 
-I'm a backend/DevOps software engineer with project management skills. Focusing on designing and implementing simple, scalable and maintainable solutions with great user and developer experience with best practices in mind.
+I'm a backend/DevOps software engineer with project management skills. Focusing on designing and implementing simple, scalable, maintainable, best practice solutions with great user and developer experience in mind.
 
 ### Languages
 
